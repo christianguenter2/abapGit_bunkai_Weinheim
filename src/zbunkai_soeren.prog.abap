@@ -5,7 +5,6 @@
 *&---------------------------------------------------------------------*
 REPORT zbunkai_soeren.
 
-
 CLASS lcl_bunkai DEFINITION.
   PUBLIC SECTION.
     METHODS show_karlsruhe.
