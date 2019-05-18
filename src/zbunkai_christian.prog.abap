@@ -47,5 +47,5 @@ cl_demo_output=>display_html(
          && |Test|
          && |Test|
          && |Test|
-         && |Test|
+         && |Test2|
          && |Hello World!| ) ).

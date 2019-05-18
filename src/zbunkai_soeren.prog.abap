@@ -9,7 +9,6 @@ CLASS lcl_bunkai DEFINITION.
   PUBLIC SECTION.
     METHODS show_karlsruhe.
 
-
 ENDCLASS.
 
 
