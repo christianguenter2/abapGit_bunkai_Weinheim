@@ -26,7 +26,7 @@ cl_demo_output=>display_html(
          && |Test1|
          && |Test1|
          && |Test1|
-         && |Test1|
+         && |Test4|
          && |Test1|
          && |Hello World!| ) ).
 
@@ -44,7 +44,7 @@ cl_demo_output=>display_html(
          && |Test|
          && |Test|
          && |Test|
-         && |Test|
+         && |Test3|
          && |Test|
          && |Test|
          && |Test|
